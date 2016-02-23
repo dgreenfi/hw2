@@ -12,7 +12,7 @@ The system measures a rate of (Tweets in proximity of interest points/N) where N
 The system both sends out an alert when a threshold for each city is reached as well as maintains a state of whether that alert has already been triggered.  In a more sophisticad system, it would be good to add a buffer to reset the state of each city require a time based cooling period or a percentage below threshold to be hit.
 
 ###3.  Output to a public channel 
-The system posts back to a twitter channel.  That channel is viewable here: <src Twitter Bot>https://twitter.com/SuperHappyBot</src>.  With more data, I beleive this indicator could be a good local weather indicator to help identify areas that are sunny or rainy.  This may not be possible for public consumers, but internal social network engineers have location data for all records.
+The system posts back to a twitter channel.  That channel is viewable here: <a  href=https://twitter.com/SuperHappyBot>name="Twitter Bot"</a>.  With more data, I beleive this indicator could be a good local weather indicator to help identify areas that are sunny or rainy.  This may not be possible for public consumers, but internal social network engineers have location data for all records.
 
 
 
